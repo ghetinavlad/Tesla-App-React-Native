@@ -9,7 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/73642253/116429224-5d3b1280-a84e-11eb-88ce-c7a2e3680eaa.png" />
 
-&nbsp;
 
 <img src="https://user-images.githubusercontent.com/73642253/116429226-5dd3a900-a84e-11eb-8a33-7825388f2daa.png" />
 
@@ -18,4 +17,4 @@
 
 
 
-<p>
+</p>
