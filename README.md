@@ -1,6 +1,5 @@
 # Tesla-App-React-Native
 
-# Instagram-App-React-Native
 
 <div align="center">
 
